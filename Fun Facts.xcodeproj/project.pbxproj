@@ -209,6 +209,7 @@
 				TargetAttributes = {
 					43F4AE8F1DDE45BF0048D789 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 42KS3LGC46;
 						ProvisioningStyle = Automatic;
 					};
 					43F4AEA31DDE45C00048D789 = {
@@ -428,7 +429,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 42KS3LGC46;
 				INFOPLIST_FILE = "Fun Facts/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.teamtreehouse.Fun-Facts";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -440,7 +443,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 42KS3LGC46;
 				INFOPLIST_FILE = "Fun Facts/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.teamtreehouse.Fun-Facts";
 				PRODUCT_NAME = "$(TARGET_NAME)";
